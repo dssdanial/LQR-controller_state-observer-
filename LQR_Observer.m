@@ -1,5 +1,5 @@
 
-%% Danial Sabzevari   5217544,  Control Assignment
+%% Danial Sabzevari  
 
 %%
 clc;
